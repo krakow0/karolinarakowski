@@ -1,8 +1,0 @@
-possible categories: color, genre, author, height
-    author -> edition, collection, 
-step 1. First we are going to find the author's name with the first alphabetical name, so an author with A___ first name and/or A___ last name. 
-step 2. remove all books from bookshelves
-step 3. put the books with A titles on the top right, moving left when you go down the alphabet (B,C,D..)
-step 4. repeat until you sort all books successfully, if you don't have a book starting with a specific letter, move onto the next letter
-step 5. your last bookshelf row should have titles starting with Z on the bottom right.
-step 6. check that all books were properly organized
